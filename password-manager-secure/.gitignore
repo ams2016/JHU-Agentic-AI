@@ -12,3 +12,8 @@ log.txt
 
 # Env
 .env
+
+# Ignore test files
+test_vault.py
+
+
