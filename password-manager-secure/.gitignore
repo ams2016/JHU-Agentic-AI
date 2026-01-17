@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# The encrypted vault file (safe-ish, but keep out of git anyway)
+vault.enc
+vault.json
+log.txt
+
+# Streamlit
+.streamlit/
+
+# Env
+.env
