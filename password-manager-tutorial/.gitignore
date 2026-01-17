@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local data (never commit secrets)
+master_login.json
+app_password.json
+log.txt
+
+# OS
+.DS_Store
