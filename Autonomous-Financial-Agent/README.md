@@ -3,6 +3,14 @@ An agentic AI system that autonomously researches and ranks investment opportuni
 by orchestrating multiple data sources, real-time news, sentiment analysis, and 
 private document retrieval — delivering investment-grade reports in minutes.
 
+# Autonomous Financial Research Analyst Agent
+An agentic AI system that autonomously researches and ranks investment opportunities 
+by orchestrating multiple data sources, real-time news, sentiment analysis, and 
+private document retrieval — delivering investment-grade reports in minutes.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ams2016/JHU-Agentic-AI/blob/main/Autonomous-Financial-Agent/Schenning_Project_2_Autonomous_Financial_Analyst.ipynb)
+
+
 ## What It Does
 This agent proactively gathers financial intelligence without being told what to look 
 for. Given a company ticker or a list of companies, it autonomously:
